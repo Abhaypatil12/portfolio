@@ -1,6 +1,6 @@
 # Ravi Kothari — ML Engineer Portfolio
 
-**Live site:** [ravi-kot.github.io/portfolio](https://ravi-kot.github.io/portfolio/)
+**Live site:** [https://abhaypatil12.github.io/portfolio/](https://abhaypatil12.github.io/portfolio/)
 
 A professional portfolio showcasing machine learning engineering, computer vision research, GPU-accelerated systems, and production ML deployments.
 
