@@ -2,8 +2,6 @@
 
 **Live site:** [https://abhaypatil12.github.io/portfolio/](https://abhaypatil12.github.io/portfolio/)
 
-A professional portfolio showcasing machine learning engineering, computer vision research, GPU-accelerated systems, and production ML deployments.
-
 ## Structure
 
 - **Experience:** Power Electronics Engineer, Embedded Systems Intern 
