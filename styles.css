@@ -610,3 +610,41 @@ strong {
     padding: 15px;
   }
 }
+/* Languages Section */
+.languages-section {
+  margin-top: 1.5rem;
+}
+
+.languages-section h3 {
+  margin-bottom: 0.75rem;
+}
+
+.lang-item {
+  margin-bottom: 0.6rem;
+}
+
+.lang-label {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  margin-bottom: 0.25rem;
+}
+
+.lang-level {
+  color: #888;
+  font-size: 0.8rem;
+}
+
+.lang-bar {
+  width: 100%;
+  height: 6px;
+  background-color: #d0d0d0;
+  border-radius: 3px;
+  overflow: hidden;
+}
+
+.lang-fill {
+  height: 100%;
+  background-color: #1a1a1a;
+  border-radius: 3px;
+}
